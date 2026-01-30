@@ -1,8 +1,12 @@
 # Interactive-Indian-Pharmaceutical-Market-Dashboard
 1.Project Tittle
 Indian Pharmaceutical Market Performance Dashboard
+
+
 2. Short description /Purpose
 This Indian Pharmaceutical Performance Dashboard provides a comprehensive overview of the pharma market by analyzing manufacturers, products, pricing, dosage forms, and therapeutic classes. It helps stakeholders understand product distribution, pricing trends, and manufacturer-level performance through interactive visualizations. The dashboard exists to centralize complex pharmaceutical data into a single, easy-to-analyze view that supports strategic planning and market analysis. It enables data-driven decisions related to product portfolio optimization, pricing strategy, and competitive benchmarking.
+
+
 3.Tech Stake
 🛠️ Key Technologies Used
 🟡 Power BI Desktop – Main data visualization platform used for report creation, interactive dashboards, and KPI analysis
@@ -18,8 +22,12 @@ This Indian Pharmaceutical Performance Dashboard provides a comprehensive overvi
 📊 Power BI Visuals – Bar charts, line charts, donut charts, KPI cards, slicers, and filters for interactive insights
 
 🗺️ Interactive Filters & Slicers – Enabled manufacturer and therapeutic-class level drill-down and exploration
+
+
 4.Data Source
 Excel sheet provided by the business from kaggle and images of the employees from google
+
+
 5. Features / Highlights
 🚀 Dashboard Features & Highlights
 📌 Business Problem
